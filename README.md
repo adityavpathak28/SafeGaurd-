@@ -22,6 +22,4 @@ Built with **Flutter** and **Node.js**, the app ensures fast, secure, and user-c
 **APIs:** Google Maps API  
 **Tools:** Git, Android Studio  
 
----
 
-## 🧩 System Architecture
