@@ -12,16 +12,15 @@ Built with **Flutter** and **Node.js**, the app ensures fast, secure, and user-c
 - 📍 **Real-Time Location Sharing** – Instantly share GPS location via secure links.  
 - 🧩 **Custom Contact List** – Manage and personalize trusted contacts.  
 - 🔐 **Privacy-First Design** – Data shared only during active emergency events.  
-- ☁️ **Cloud Integration** – Uses Firebase for authentication and messaging.  
 
 ---
 
 ## 🧠 Tech Stack
-**Frontend:** Flutter  
+**Frontend:** Java, XML  
 **Backend:** Node.js, Express.js  
-**Database:** Firebase Realtime DB  
+**Database:** SQLite DB  
 **APIs:** Google Maps API  
-**Tools:** Git, VS Code, Postman  
+**Tools:** Git, Android Studio  
 
 ---
 
